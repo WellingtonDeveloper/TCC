@@ -1,0 +1,31 @@
+<WordsList>
+    <Words>
+        <Word name="sprites/image/abajur">           
+            <en>ABAJUR</en>
+        </Word>
+        <Word name="sprites/image/aranha">            
+            <en>ARANHA</en>
+        </Word>
+        <Word name="sprites/image/arara">            
+            <en>ARARA</en>
+        </Word>        
+        <Word name="sprites/image/baleia">            
+            <en>BALEIA</en>
+        </Word>
+        <Word name="sprites/image/beliche">            
+            <en>BELICHE</en>
+        </Word>
+        <Word name="sprites/image/berço">            
+            <en>BERÇO</en>
+        </Word>
+        <Word name="sprites/image/cadeira">            
+            <en>CADEIRA</en>
+        </Word>
+        <Word name="sprites/image/chapeu">            
+            <en>CHAPÉU</en>
+        </Word>
+        <Word name="sprites/image/church">            
+            <en>IGREJA</en>
+        </Word>     
+    </Words>
+</WordsList>
